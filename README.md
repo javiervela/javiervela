@@ -3,11 +3,8 @@
 <a href="https://javiervelatambo.com"><img alt="Website" src="https://img.shields.io/badge/Website-javiervelatambo.com-blue?style=for-the-badge&logo=firefox&logoColor=white"></a>
 <img alt="Profile View Counter" src="https://komarev.com/ghpvc/?username=javiervela">
 
-<!-- TODO ## 👋 Introduction -->
 
-I'm Javier Vela, a researcher and engineer in Artificial Intelligence and Data Science. I work as a Data Scientist at the Pyrenean Institute of Ecology (IPE-CSIC), where I develop LLM-based systems to analyze the impact of extreme weather events. My work focuses on generative models, NLP, and large-scale data processing. I'm also preparing to start a PhD in Distributed Quantum Computing.
-
-<!-- ## 📫 How to reach me ... -->
+I'm a researcher and engineer specializing in Quantum Computing and Machine Learning. Currently, I am a Research Assistant and PhD student at Worcester Polytechnic Institute (WPI), where my work centers on Distributed Quantum Computing and Quantum Cloud technologies.
 
 ## 🔗 Contact
 
@@ -16,11 +13,9 @@ I'm Javier Vela, a researcher and engineer in Artificial Intelligence and Data S
 
 ## 👀 Interests
 
-- 🧠 **Artificial Intelligence** – large language models, generative AI, and applied NLP
-- 📊 **Data Science** – structured information extraction, LLM evaluation, and benchmarking
-- ⚙️ **DevOps & Cloud** – scalable infrastructure, automation, and system reliability
-- 🌍 **Environmental Informatics** – AI for climate impact and extreme weather event analysis
 - ⚛️ **Quantum Computing** – foundations and distributed architectures
+- 🧠 **Artificial Intelligence** – large language models, generative AI, and applied NLP
+- ⚙️ **DevOps & Cloud** – scalable infrastructure, automation, and system reliability
 
 <!--
 
@@ -90,7 +85,3 @@ Open Source Projects
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
     <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 </p>
-
-<!-- TODO ## 📂 Featured Projects -->
-
-<!-- BADGES: https://dev.to/envoy_/150-badges-for-github-pnk -->
